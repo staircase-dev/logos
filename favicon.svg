@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="35.646851mm"
+   height="35.646851mm"
+   viewBox="0 0 35.646851 35.646851"
+   version="1.1"
+   id="svg2637"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs2631" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-185.12931"
+     inkscape:cy="-60.557422"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="631"
+     inkscape:window-y="1351"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="89.04553,-17.05002"
+       orientation="1,0"
+       id="guide3584"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-8.2405723,43.88744"
+       orientation="1,0"
+       id="guide3586"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2634">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(164.6828,96.198245)">
+    <rect
+       style="opacity:1;fill:#006c85;fill-opacity:1;stroke:#000000;stroke-width:0.06079757;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect3303-5"
+       width="35.586052"
+       height="35.586052"
+       x="-164.6524"
+       y="-96.167847"
+       inkscape:export-xdpi="22.799999"
+       inkscape:export-ydpi="22.799999" />
+    <g
+       inkscape:export-ydpi="50"
+       inkscape:export-xdpi="50"
+       inkscape:export-filename="C:\Users\Riley\Pictures\staircase\logo1.png"
+       id="g4745-7"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,333.03809,-38.060773)"
+       aria-label="staircase">
+      <path
+         id="path4725-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;font-family:Righteous;-inkscape-font-specification:Righteous;fill:#ffffff;fill-opacity:1"
+         d="m -1797.9824,-101.19419 h -58.5 v -25.5 h 58.5 q 2.625,0 4.5,-1.875 1.875,-1.875 1.875,-4.5 0,-2.71875 -1.875,-3.5625 -1.875,-0.84375 -4.5,-0.84375 h -26.625 q -6.6563,0 -12.4688,-2.53125 -5.8125,-2.53125 -10.125,-6.84375 -4.3125,-4.40625 -6.8437,-10.21875 -2.4375,-5.8125 -2.4375,-12.46875 0,-6.65625 2.4375,-12.46875 2.5312,-5.8125 6.8437,-10.125 4.3125,-4.3125 10.125,-6.75 5.8125,-2.53125 12.4688,-2.53125 h 51.8437 v 25.5 h -51.8437 q -2.625,0 -4.5,1.875 -1.875,1.875 -1.875,4.5 0,2.71875 1.875,4.6875 1.875,1.875 4.5,1.875 h 26.625 q 6.5625,0 12.375,2.25 5.8125,2.15625 10.125,6.09375 4.3125,3.9375 6.8437,9.46875 2.5313,5.53125 2.5313,12.09375 0,6.65625 -2.5313,12.46875 -2.5312,5.71875 -6.8437,10.125 -4.3125,4.3125 -10.125,6.84375 -5.8125,2.4375 -12.375,2.4375 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
